@@ -73,3 +73,7 @@ nav{
     margin-left: 30px;
 }
 
+.resize{
+    width: 500px;
+    height:  auto;
+}
